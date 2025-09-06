@@ -4,25 +4,22 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
 - [Author](#author)
 
 ### The challenge
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
-
-#If you prefer not to add a screenshot, feel free to remove this entire section.\*\*
+- See hover and focus states for all interactive elements on the page.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social-Links-Profile](https://karenstackedup.github.io/social-links-profile/)
 
 ### Built with
 
@@ -33,11 +30,13 @@ Users should be able to:
 ### What I learned
 
 - Semantic structure is very important
-- i learnt how to put an <a> inside a <li> and get both to seamlessly transition together
+- I learned how to put an a tag inside a li tag and get both to seamlessly transition together
+- There are different ways to solve a problem.
 
 ### Continued development
 
 - A better understanding of semantic HTML and CSS
+- Experiment different ways to do the same thing
 
 ## Author
 
