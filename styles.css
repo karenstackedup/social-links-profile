@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  background: hsl(0, 0%, 8%);
+}
+main {
+  background: hsl(0, 0%, 12%);
+  /* border: 1px solid hsl(0, 0%, 12%); */
+  border-radius: 0.75rem;
+  max-width: 100%;
+  margin: 5rem 1.5rem;
+  text-align: center;
+  padding: 1rem;
+  color: hsl(0, 0%, 100%);
+}
+
+main h3 {
+  color: hsl(75, 94%, 57%);
+}
+main img {
+  width: 5rem;
+  border-radius: 50%;
+}
+main p {
+  font-weight: 400;
+  color: hsl(0, 0%, 50%);
+}
+.social-links {
+  padding-left: 0;
+}
+
+.social-links li {
+  border-radius: 0.5rem;
+  background: hsl(0, 0%, 20%);
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 100%;
+  list-style: none;
+  transition: background 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.social-links li:hover {
+  background: hsl(75, 94%, 57%);
+}
+
+.social-links li a {
+  display: block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+  transition: background 0.3s ease-in-out;
+}
+
+.social-links li:hover a {
+  color: hsl(0, 0%, 12%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+
+@media (min-width: 768px) {
+  main {
+    max-width: 75%;
+    margin: 5rem auto;
+    padding: 2rem;
+  }
+}

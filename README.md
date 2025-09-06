@@ -33,6 +33,7 @@ Users should be able to:
 ### What I learned
 
 - Semantic structure is very important
+- i learnt how to put an <a> inside a <li> and get both to seamlessly transition together
 
 ### Continued development
 
